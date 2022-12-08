@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srt fordito", "Srt fordito\Srt fordito.csproj", "{ACB4FE48-E7BD-489B-A020-4A49176FD3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAiSimple", "SrtTranslator\OpenAiSimple.csproj", "{5059D31F-721B-4DA8-9589-5A55B4C4F14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB4FE48-E7BD-489B-A020-4A49176FD3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB4FE48-E7BD-489B-A020-4A49176FD3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB4FE48-E7BD-489B-A020-4A49176FD3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB4FE48-E7BD-489B-A020-4A49176FD3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5059D31F-721B-4DA8-9589-5A55B4C4F14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5059D31F-721B-4DA8-9589-5A55B4C4F14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5059D31F-721B-4DA8-9589-5A55B4C4F14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5059D31F-721B-4DA8-9589-5A55B4C4F14C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4436254-E48C-4FBD-A432-0EBDFF42CA91}
+	EndGlobalSection
+EndGlobal
